@@ -32,7 +32,7 @@ function checkTime(i) {
 }
 
 function genQuote() {
-  var randNum = Math.floor(Math.random() * 45) + 1;
+  var randNum = Math.floor(Math.random() * 80) + 1;
   document.getElementById('quote').innerHTML = quotes[randNum];
   var tweetQuote = quotes[randNum].split(' ').join('%20');
   tweetQuote = tweetQuote.split('<br>').join('');
@@ -86,7 +86,43 @@ var quotes = ["Blank",
 "\"If I wasn't cheap I swear I would get a better lawyer than Chris.\"<br>- Elijah Leung",
 "\"I thought we gave you ample hush money.\"<br>- Elijah Leung",
 "\"I don't what you're talking about. I ain't ever fap in my life.\"<br>- Elijah Leung",
-"\"Who is this Trap?\"<br>- Elijah Leung",
+"\"One Day Mckayla Maroney I'm gonna Disappoint you so hard.\"<br>- Elijah Leung",
+"\"You know I wanted to plow him back in the day.\"<br>- Elijah Leung",
+"\"Oh BOI the things ...(Bites Lips) I would do to him.\"<br>- Elijah Leung",
+"\"The horny Stick is reserved for Traps.\"<br>- Elijah Leung",
+"\"Bite your fucking tongue young man, Shut your whore lips.\"<br>- Elijah Leung",
+"\"We talking Trap Cherries... or, I be blowing Trap's backs every week.\"<br>- Elijah Leung",
+"\"Oh nicky im gonna give you 10 lashings... oh its going for once.\"<br>- Elijah Leung",
+"\"You could kill any Minority you want.\"<br>- Elijah Leung",
+"\"OH MY GOD THEY DE-SEXIFIED HER!!!\"<br>- Elijah Leung",
+"\"I'm about to call the Pentagon.\"<br>- Elijah Leung",
+"\"Come on Jeremy join my side...Come over to light skin side all are welcomed.\"<br>- Elijah Leung",
+"\"James for once i want you to BEAT MY ASS.\"<br>- Elijah Leung",
+"\"The 2nd step is eliminating anyone that would dare acknowledge my problems.\"<br>- Elijah Leung",
+"\"I dont know what you are talking about I AM A SAINT GOOD DAY SIR\"<br>- Elijah Leung",
+"\"Some say I am the reincarnation for grease up death guy\"<br>- Elijah Leung",
+"\"You are telling me I could have been buying prostitutes all willy Nilly\"<br>- Elijah Leung",
+"\"I just skin a Joe and wear its skin\"<br>- Elijah Leung",
+"\"They can't just wake up from last nights orgy\"<br>- Elijah Leung",
+"\"Eli is a Colonizer!\"<br>- Elijah Leung",
+"\"She was the sexual awakening for people now its just Chun Li in Fortnite!\"<br>- Elijah Leung",
+"\"Q is a special Number!!\"<br>- Elijah Leung",
+"\"They striped me of my clothes... I better shut up...\"<br>- Elijah Leung",
+"\"Mean while in meat beat mania...\"<br>- Elijah Leung",
+"\"My girlfriend is a ninja she be living in the shadows B.\"<br>- Elijah Leung",
+"\"I would often dream of her shoving her discarded sponges in my throat\"<br>- Elijah Leung",
+"\"DEGENERACY UNITE!!\"<br>- Elijah Leung",
+"\"I can raise her passion with this corn.\"<br>- Elijah Leung",
+"\"If that guy is gonna trick me, I'm gonna commit, we are gonna go out for dinner with flowers and Chocolate\"<br>- Elijah Leung",
+"\"I'll put on black right now boy\"<br>- Elijah Leung",
+"\"You should see the Emilio Android it doesnt even act Italian.\"<br>- Elijah Leung",
+"\"I am Ignorant right now, Ignorant!\"<br>- Elijah Leung",
+"\"Ok Daddy\"<br>- Elijah Leung",
+"\"I got this flashdrive from statistics class and I used it for porn\"<br>- Elijah Leung",
+"\"I bow down, by the booty for the booty\"<br>- Elijah Leung",
+"\"That isn't one of his predetermined Dominican catchphrases\"<br>- Elijah Leung",
+"\"Lets do this! We ain't no BITCH!\"<br>- Elijah Leung",
+"\"I knew you would join the dark side Nicky.\"<br>- Elijah Leung",
 ];
 
 //date
